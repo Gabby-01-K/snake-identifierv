@@ -27,10 +27,16 @@ An open-source mobile application built with Flutter to identify snake species u
 
 A quick look at the app in action.
 
-Home (Classifier)
-Details & Bookmarking
-Profile Page (Dark Mode)
-Model Management
+<p align="center">
+   <p>Home (Classifier)</p>
+  <img src="images/home_page.png" alt="Home Page" width="250">
+  <p>Details & Bookmarking</p>
+  <img src="images/details_page.png" alt="Details Page" width="250">
+  <p>Model Management</p>
+  <img src="images/models_page.png" alt="Models Page" width="250">
+  <p>Profile Page (Dark Mode)</p>
+  <img src="images/profile_darkMode.png" alt="Profile (Dark Mode)" width="250">
+</p>
 
 ## 🛠️ Tech Stack
 
