@@ -1,3 +1,9 @@
+<p align="center">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/Gabby-01-K/snake-identifierv">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Gabby-01-K/snake-identifierv?color=%23027DFD&logo=dart">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Gabby-01-K/snake-identifierv">
+</p>
+
 # 🐍 Snake Identifier App
 
 An open-source mobile application built with Flutter to identify snake species using an on-device TensorFlow Lite model. Snap a picture, get an ID, and save your findings!
