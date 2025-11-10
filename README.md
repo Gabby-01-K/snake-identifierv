@@ -101,21 +101,7 @@ This project is a great foundation. Here are some features planned for the futur
 
 ## 🤝 How to Contribute
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request.
-
-1. Fork the Project
-
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-
-5. Open a Pull Request
-
-Don't forget to give the project a star! Thanks again!
+**Contributions are welcome!** For guidelines, please see our [Contributing Guide](CONTRIBUTING.md).
 
 📜 License
 
